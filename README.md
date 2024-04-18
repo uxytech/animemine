@@ -27,4 +27,6 @@ Animemine adalah platform streaming anime subtitle Indonesia gratis yang bersumb
 
 [Saweria](https://saweria.co/rdwandev)
 
-create made by with rdwandev
+made by with rdwandev
+
+
