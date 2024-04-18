@@ -8,8 +8,7 @@ Animemine adalah platform streaming anime subtitle Indonesia gratis yang bersumb
 
 ## Preview
 
-<img src="![image](https://github.com/uxytech/animemine/assets/149013489/b106a17b-a80a-4043-a9f7-5942678418ca)
-" />
+<img src="https://github.com/uxytech/animemine/assets/149013489/b106a17b-a80a-4043-a9f7-5942678418ca" />
 
 ## Fitur
 
